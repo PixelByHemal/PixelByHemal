@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I'm Hemal Prajapati
 
-<!--
-**PixelByHemal/PixelByHemal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 From Gujarat, India  
+💡 Passionate about Full-Stack Web Development  
+📚 Learning: HTML, CSS, JavaScript, Java  
+🛠️ Building projects to sharpen my skills  
+🚀 2024 Goal: Launch my first major web app  
+📍 Sharing my daily dev progress on [Twitter](https://twitter.com/PixelByHemal)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats (optional)
+![Hemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelByHemal&show_icons=true&theme=radical)
